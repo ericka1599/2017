@@ -1,0 +1,38 @@
+.container {
+	background: pink;
+	height: 400px;
+	width: 400px;
+	position: relative;
+}
+
+.square {
+	height: 50px;
+	width: 50px;
+	border: 2px black solid;
+	display: block;
+	position: relative;
+}
+
+.purple {
+	background: purple;
+	right: 0;
+	top: 0;
+	z-index: 0;
+	position: absolute;
+}
+
+.blue {
+	background: blue;
+	right: 4;
+	bottom: 0;
+	z-index: 2;
+	position: absolute;
+}
+
+.green {
+	background: green;
+	right: 0;
+	top: 0;
+	z-index: 1;
+	position: absolute;
+}
