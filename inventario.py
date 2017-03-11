@@ -12,7 +12,6 @@ while des == 1:
 
 	des = int(input("Desea ingresar un producto? " '\n' "1. Si" '\n' "2. No" '\n'))
 
-i = 0
-for i in productos:
-	print (productos ,  cantidades[i])
-	i = i + 1
+
+print (str(productos))
+print (str(cantidades))

@@ -7,14 +7,12 @@ caracteres = []
 
 cont = 0
 
-for x in range(cua):
-	while cont < car:
-		caracter = random.choice(lis)
-		print (''.join(caracter))
-		cont = cont + 1
+while cont <= car:
+	caracter = random.choice(lis)
+	caracteres.append(caracter)
+	cont = cont + 1
 
-	del(cont)
-	cont = 0
+print (', '.join(caracteres))
 
 
 
