@@ -1,8 +1,8 @@
-.manos {
-	height: 25%;
+.uno{
+	height: 45%;
 	width: 100%;
 	background-image: url("imagenes/manos.jpg");
-	background-size: 100% 100%;
+	background-size: cover;
 	background-repeat: no-repeat; 
 }
 
@@ -15,11 +15,39 @@
 	display: block;
 }
 
-.peace {
+.a {
 
 }
 
 .c {
-	top: 0;
+	position: relative;
 	float: right;
+}
+
+.d {
+	float: center;
+}
+
+.e {
+
+}
+
+.f {
+
+}
+
+.g {
+
+
+}
+
+.h {
+
+
+}
+
+.i {
+
+	text-align: center;
+	color: green;
 }
