@@ -1,0 +1,25 @@
+.manos {
+	height: 25%;
+	width: 100%;
+	background-image: url("imagenes/manos.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat; 
+}
+
+.barrita {
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	color: white;
+	font-size: 16px;
+	display: block;
+}
+
+.peace {
+
+}
+
+.c {
+	top: 0;
+	float: right;
+}
