@@ -1,39 +1,54 @@
+body {
+
+	font-family: 'Open Sans', sans-serif;
+}
+
 .uno{
-	height: 45%;
-	width: 100%;
+	height: 500px;
 	background-image: url("imagenes/manos.jpg");
 	background-size: cover;
 	background-repeat: no-repeat; 
 }
 
 .barrita {
-	padding-top: 5%;
+	padding-top: 2%;
 	padding-left: 10%;
 	padding-right: 10%;
 	color: white;
 	font-size: 16px;
-	display: block;
+	position: relative;
 }
 
 .a {
 
 }
 
+.b {
+
+
+}
+
 .c {
-	position: relative;
+	top: 0;
 	float: right;
 }
 
 .d {
-	float: center;
+
 }
 
 .e {
 
 }
+h1 {
+
+	text-align: center;
+	color: white;
+}
 
 .f {
-
+	color: white;
+	text-align: center;
 }
 
 .g {
@@ -44,6 +59,11 @@
 .h {
 
 
+}
+
+.dos {
+
+	height: 200px;
 }
 
 .i {
@@ -57,13 +77,67 @@
 
 }
 
-h3 {
-
-	text-align: center;
+.tres {
+	height: 200px;
 }
 
 .k {
+
+	float: left;
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.l {
+
+	padding: 5%;
 	width: 50%;
 	background-color: #33cc33;
 	float: right;
 }
+
+h3 {
+
+	text-align: center;
+	color: white;
+}
+
+.m {
+	color: white;
+}
+
+.n {
+
+	height: 100%
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.ñ {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.o {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.p {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
