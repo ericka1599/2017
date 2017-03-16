@@ -1,0 +1,161 @@
+body {
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+.uno{
+	height: 500px;
+	background-image: url("imagenes/manos.jpg");
+	background-size: cover;
+	background-repeat: no-repeat; 
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+.barrita {
+	color: white;
+	font-size: 16px;
+}
+
+input {
+
+	background-color: #4CAF50;
+	border-radius: 10px;
+	text-align: center;
+	border: none;
+	float: right;
+
+
+} 
+
+.a {
+
+	font-size: 20px;
+	left: 20px;
+
+}
+
+.b {
+
+	float: center;
+}
+
+.c {
+	top: 0;
+	float: right;
+}
+
+.d {
+
+}
+
+.e {
+
+}
+h1 {
+
+	text-align: center;
+	color: white;
+}
+
+.f {
+	color: white;
+	text-align: center;
+}
+
+.g {
+
+	height: 30px;
+	width: 300px;
+	background-color: white;
+	color: grey;
+	text-align: left;
+	border-radius: 3px;
+
+}
+
+.h {
+
+
+}
+
+.dos {
+
+	height: 200px;
+}
+
+.i {
+
+	text-align: center;
+	color: green;
+}
+
+.j {
+
+
+}
+
+.tres {
+	height: 200px;
+}
+
+.k {
+
+	float: left;
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.l {
+
+	padding: 5%;
+	width: 50%;
+	background-color: #4CAF50;
+	float: right;
+}
+
+h3 {
+
+	text-align: center;
+	color: white;
+}
+
+.m {
+	color: white;
+}
+
+.n {
+
+	height: 100%
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.ñ {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.o {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.p {
+
+	background-image: url("imagenes/pelo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
